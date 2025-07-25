@@ -19,8 +19,11 @@ author_profile: false
  <div style="height: 20px;"></div>
 
 ***References:*** 
+
 Dixit, Sachin (2020). The Impact of Quantum Supremacy on Cryptography : Implications for Secure Financial Transactions. International Journal of Scientific Research in Computer Science, Engineering and Information Technology 6 (4):611-637.
+
 “Impacts of Quantum Computing on Cryptographic Algorithms: Challenges and the Future of Cybersecurity”. Global Research Perspectives on Cybersecurity Governance, Policy, and Management, vol. 8, no. 12, Dec. 2024, pp. 12-23, https://hammingate.com/index.php/GRPCGPM/article/view/2.
+
 Deodoro, Jose, et al. “Quantum Computing and the Financial System: Spooky Action at a Distance?” Google Books, International Monetary Fund, 2021, https://books.google.com/books?id=iPE_EAAAQBAJ&lpg=PA4&ots=oQSf2MDCQC&lr&pg=PA1#v=onepage&q&f=true.
 
 **Tools/Techniques:**
