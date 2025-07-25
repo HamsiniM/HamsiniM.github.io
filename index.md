@@ -28,7 +28,8 @@ To understand how the polar form is derived, check out this video:
 
 ***Motivation:*** I’ve always been drawn to interdisciplinary topics, and the intersection of quantum computing, cryptography, and finance presents a rare opportunity to explore how theoretical concepts can have practical consequences in the fintech sector.
 
-***Video(Post-Quantum Cryptography):*** <iframe width="560" height="315" src="https://www.youtube.com/embed/JCVQ9VHtngY?si=irKMyVI2KO10y2_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+***Video(Post-Quantum Cryptography):*** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCVQ9VHtngY?si=irKMyVI2KO10y2_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***References:*** 
 Dixit, Sachin (2020). The Impact of Quantum Supremacy on Cryptography : Implications for Secure Financial Transactions. International Journal of Scientific Research in Computer Science, Engineering and Information Technology 6 (4):611-637.
